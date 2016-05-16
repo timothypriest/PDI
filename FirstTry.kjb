@@ -95,7 +95,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>400</xloc>
+      <xloc>544</xloc>
       <yloc>208</yloc>
       </entry>
   </entries>
@@ -111,6 +111,27 @@
     </hop>
   </hops>
   <notepads>
+    <notepad>
+      <note>Adding a note</note>
+      <xloc>258</xloc>
+      <yloc>336</yloc>
+      <width>93</width>
+      <heigth>25</heigth>
+      <fontname/>
+      <fontsize>-1</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>205</backgroundcolorgreen>
+      <backgroundcolorblue>112</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
   </notepads>
 <attributes><group><name>JobRestart</name>
 <attribute><key>UniqueConnections</key>
