@@ -112,13 +112,13 @@
   </hops>
   <notepads>
     <notepad>
-      <note>Adding a note</note>
+      <note>Adding a note&#xd;&#xa;Changing a note</note>
       <xloc>258</xloc>
       <yloc>336</yloc>
-      <width>93</width>
-      <heigth>25</heigth>
-      <fontname/>
-      <fontsize>-1</fontsize>
+      <width>107</width>
+      <heigth>40</heigth>
+      <fontname>Ariel</fontname>
+      <fontsize>10</fontsize>
       <fontbold>N</fontbold>
       <fontitalic>N</fontitalic>
       <fontcolorred>0</fontcolorred>
